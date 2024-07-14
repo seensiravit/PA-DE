@@ -1,2 +1,2 @@
 # PA-DE
-Parkinson Early Detection
+Parkinson's Disease Early Detection
