@@ -49,7 +49,7 @@ The dataset after cleaning is uploaded [here](https://github.com/seensiravit/Par
 
 Currently, PA-DE is available exclusively for Android, but we have plans to expand to other platforms in the near future!
 
-For the offical version: download PA-DE.apk file from this repository
+For the offical version: download app-release.apk file from this repository
 
 For the latest version: visit our [mobile application repository](https://github.com/seensiravit/PA-DE)
 
